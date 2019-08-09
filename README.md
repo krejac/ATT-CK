@@ -1,12 +1,10 @@
-# Intro til ATT&CK på Københavns Universitet
-
 ![](./ku-attack.png)
 
 ---
 
 ## Kort intro til ATT&CK
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0BEf6s1iu5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0BEf6s1iu5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Mitre er en ikke-for-profit organisation, der ”løser problemer for at sikre verdenen”, som har lavet og vedligeholder ATT&CK frameworket, som systematisk sætter avancerede hackergrupperingers taktikker og teknikker ind i en ramme, så it-sikkerhedsfolk kan se hvad man bør holde styr på i et it-miljø.
 
