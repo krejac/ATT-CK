@@ -28,6 +28,7 @@ Kan med fordel læses i denne rækkefølge.
 2.	[Getting Started with ATT&CK: Detection and Analytics](https://medium.com/mitre-attack/getting-started-with-attack-detection-a8e49e4960d0)
 3.	[Getting Started with ATT&CK: Adversary Emulation and Red Teaming](https://medium.com/mitre-attack/getting-started-with-attack-red-29f074ccf7e3)
 4.	[Getting Started with ATT&CK: Assessments and Engineering](https://medium.com/mitre-attack/getting-started-with-attack-assessment-cc0b01769cb4)
+
 Se også ATT&CK-hjemmesidens [Getting Started](https://attack.mitre.org/resources/getting-started/) afsnit for yderligere ressourcer.
 
 ### Videoer
