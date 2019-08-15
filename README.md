@@ -52,4 +52,17 @@ Test af Detection Techniques:
 Andre relevante frameworks:
 - [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) fra Lockheed Martin
 
-[^1]: Ref.: [Corporate Overview](https://www.mitre.org/about/corporate-overview) (mire.org)
+## Nyttige forkortelser og Begreber
+
+**APT** - Advanced Persistent Threat
+**ATT&CK** - Adversarial Tactics Techniques & Common Knowledge
+**CTI** - Cyber Threat Intelligence
+**CVE** - Common Vulnerabilities and Exposures
+**IOC** - Indicator of Compromise
+**SIEM** - Security Information and Event Management
+**SOC** - Security Operation Center
+**TTPs** - Tactics, Techniques, and Procedures
+
+Se flere på [Cybersecurity Dictionary](https://www.optiv.com/cybersecurity-dictionary).
+
+[^1]: Ref.: [Corporate Overview](https://www.mitre.org/about/corporate-overview) (mitre.org)
