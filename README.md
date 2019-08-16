@@ -35,9 +35,10 @@ Se også ATT&CK-hjemmesidens [Getting Started](https://attack.mitre.org/resource
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0BEf6s1iu5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Teknisk intro
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bkfwMADar0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Hvordan kan ATT&CK konkret anvendes i et SIEM?
+- [MITRE ATT&CKcon 2018: Summiting the Pyramid of Pain: Operationalizing ATT&CK](https://www.youtube.com/watch?v=YhsN5pBDrGY)
 - [MITRE ATT&CKcon 2018: From Technique to Detection](https://www.youtube.com/watch?v=a3hIIzJrH14) (~5:00)
 - [Building The MITRE ATT&CK Technique Detection into Your Security Monitoring](https://www.brighttalk.com/webcast/14907/366642) (~1:00:00)
 
@@ -49,8 +50,9 @@ ATT&CK
 Test af Detection Techniques:
 -	Brug [Atomic Red Team](https://atomicredteam.io/testing) til automatisering af red team testing.
 
-Andre relevante frameworks:
+Andre relevante modeller:
 - [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) fra Lockheed Martin
+- [Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 
 ## Nyttige forkortelser og Begreber
 
