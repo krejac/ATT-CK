@@ -35,7 +35,7 @@ Se også ATT&CK-hjemmesidens [Getting Started](https://attack.mitre.org/resource
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0BEf6s1iu5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bkfwMADar0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bkfwMADar0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Hvordan kan ATT&CK konkret anvendes i et SIEM?
 - [MITRE ATT&CKcon 2018: Summiting the Pyramid of Pain: Operationalizing ATT&CK](https://www.youtube.com/watch?v=YhsN5pBDrGY)
