@@ -50,6 +50,9 @@ ATT&CK
 Test af Detection Techniques:
 -	Brug [Atomic Red Team](https://atomicredteam.io/testing) til automatisering af red team testing.
 
+Log Management: 
+- [NIST] [Guide to Computer Security Log Management](https://csrc.nist.gov/publications/detail/sp/800-92/final)
+
 Andre relevante modeller:
 - [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) fra Lockheed Martin
 - [Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
