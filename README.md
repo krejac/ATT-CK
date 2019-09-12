@@ -42,13 +42,25 @@ Hvordan kan ATT&CK konkret anvendes i et SIEM?
 - [MITRE ATT&CKcon 2018: From Technique to Detection](https://www.youtube.com/watch?v=a3hIIzJrH14) (~5:00)
 - [Building The MITRE ATT&CK Technique Detection into Your Security Monitoring](https://www.brighttalk.com/webcast/14907/366642) (~1:00:00)
 
+## Ideer til hvordan man kan komme i gang
+(Løst baseret på tanker i bogen A Data-Driven Computer Defence af Roger A. Grimes)
+
+1. Identificer de vigtigste _succesfulde_ nuværende angreb (5-10stk).
+2. Identificer de vigtigste _potentielle_ fremtidige angreb (5-10stk).
+3. Find metrikker til at måle de i 1+2 identificerede angreb.
+4. Ranger de i 3 _målte_ angreb baseret på hyppighed / alvorlighed. 
+5. Arbejd på at mitigere værste trussel først indtil den ikke længere er værst mere.
+6. [goto 5.]
+7. Periodevis vurderes lister fra 1+2.
+
+
 ## Yderligere ressourcer
 ATT&CK
 - [Hjemmeside](https://attack.mitre.org/)
 - [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/) ([om navigatoren](https://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/the-attck%E2%84%A2-navigator-a-new-open-source))
 
 Test af Detection Techniques:
--	Brug [Atomic Red Team](https://atomicredteam.io/testing) til automatisering af red team testing.
+- Brug [Atomic Red Team](https://atomicredteam.io/testing) til automatisering af red team testing.
 
 Log Management: 
 - [NIST] [Guide to Computer Security Log Management](https://csrc.nist.gov/publications/detail/sp/800-92/final)
