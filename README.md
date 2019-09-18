@@ -12,6 +12,10 @@
 
 *Techniques* er metoden til at opnå målet.
 
+Grunden til at det er smart at bruge et framework som ATT&CK kan ses, hvis man kigger på [Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html), som beskriver hvor svært det er for en angriber at ændre forskellige "Indicators of Compromise".
+
+![Pyramid of Pain](./Pyramid+of+Pain+v2.png)
+
 ## Kom i gang med Mitres ATT&CK framework
 
 Bedste sted at få en masse info om ATT&CK er via Mitres forskellige sider online. Her kan man finde bl.a. [papers](https://www.mitre.org/publication-keywords/computer-security) samt [blog posts](https://medium.com/mitre-attack) og [videoer](https://www.youtube.com/watch?v=yslLIqfOKCU&list=PLkTApXQou_8JrhtrFDfAskvMqk97Yu2S2).
@@ -48,7 +52,7 @@ Hvordan kan ATT&CK konkret anvendes i et SIEM?
 1. Identificer de vigtigste _succesfulde_ nuværende angreb (5-10stk).
 2. Identificer de vigtigste _potentielle_ fremtidige angreb (5-10stk).
 3. Find metrikker til at måle de i 1+2 identificerede angreb.
-4. Ranger de i 3 _målte_ angreb baseret på hyppighed / alvorlighed. 
+4. Ranger de i 3 _målte_ angreb baseret på hyppighed / alvorlighed.
 5. Arbejd på at mitigere værste trussel først indtil den ikke længere er værst mere.
 6. [goto 5.]
 7. Periodevis vurderes lister fra 1+2.
@@ -58,16 +62,18 @@ Hvordan kan ATT&CK konkret anvendes i et SIEM?
 ATT&CK
 - [Hjemmeside](https://attack.mitre.org/)
 - [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/) ([om navigatoren](https://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/the-attck%E2%84%A2-navigator-a-new-open-source))
+- [MITRE Cyber Analytics Repository](https://car.mitre.org/) (Voksende bibliotek af "detection techniques")
+
 
 Test af Detection Techniques:
 - Brug [Atomic Red Team](https://atomicredteam.io/testing) til automatisering af red team testing.
 
-Log Management: 
+Log Management:
 - [NIST] [Guide to Computer Security Log Management](https://csrc.nist.gov/publications/detail/sp/800-92/final)
 
 Andre relevante modeller:
-- [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) fra Lockheed Martin
-- [Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
+- [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) fra Lockheed Martin. God, når man skal forklare et angrebs anatomi til ledelsen.
+- [Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html). God, når man skal forstå hvorfor vi bruger ATT&CK.
 
 ## Nyttige forkortelser og Begreber
 
