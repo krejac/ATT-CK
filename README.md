@@ -12,9 +12,13 @@
 
 *Techniques* er metoden til at opnå målet.
 
-Grunden til at det er smart at bruge et framework som ATT&CK kan ses, hvis man kigger på [Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html), som beskriver hvor svært det er for en angriber at ændre forskellige "Indicators of Compromise".
+Grunden til at det er smart at bruge et framework som ATT&CK kan ses, hvis man kigger på [Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html), som beskriver hvor svært det er for en angriber at ændre forskellige "Indicators of Compromise" (IoC).
 
 ![Pyramid of Pain](./Pyramid%20of%20Pain%20v2.png)
+
+Det Pyramid of Pain viser er, at hvis ens metode til at opdage angreb er baseret på de IoC'ere vi ser i bunden at pyramiden er det trivielt for angriberne at ændre mønster, så de undslipper opdagelse, men jo højere op ad pyramiden man klatrer, desto sværre er det - for angriber - at ændre signaturen. 
+
+ATT&CK sigter mod "Tools Techniques and Procedures" (TTP) i toppen af figuren og kan man opdage dem, gør man det for alvor svært at forblive uset som angriber.
 
 ## Kom i gang med Mitres ATT&CK framework
 
