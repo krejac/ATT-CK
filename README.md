@@ -14,7 +14,7 @@
 
 Grunden til at det er smart at bruge et framework som ATT&CK kan ses, hvis man kigger på [Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html), som beskriver hvor svært det er for en angriber at ændre forskellige "Indicators of Compromise".
 
-![Pyramid of Pain](./Pyramid+of+Pain+v2.png)
+![Pyramid of Pain](./Pyramid%20of%20Pain%20v2.png)
 
 ## Kom i gang med Mitres ATT&CK framework
 
