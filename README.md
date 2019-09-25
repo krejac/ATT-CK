@@ -44,9 +44,10 @@ Se også ATT&CK-hjemmesidens [Getting Started](https://attack.mitre.org/resource
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0BEf6s1iu5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bkfwMADar0M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+Bemærk evt. top 20 techniques ved ~31:30.
 
 Hvordan kan ATT&CK konkret anvendes i et SIEM?
-- [MITRE ATT&CKcon 2018: Summiting the Pyramid of Pain: Operationalizing ATT&CK](https://www.youtube.com/watch?v=YhsN5pBDrGY)
+- [MITRE ATT&CKcon 2018: Summiting the Pyramid of Pain: Operationalizing ATT&CK](https://www.youtube.com/watch?v=YhsN5pBDrGY) (~30:00)
 - [MITRE ATT&CKcon 2018: From Technique to Detection](https://www.youtube.com/watch?v=a3hIIzJrH14) (~5:00)
 - [Building The MITRE ATT&CK Technique Detection into Your Security Monitoring](https://www.brighttalk.com/webcast/14907/366642) (~1:00:00)
 
@@ -62,15 +63,13 @@ Hvordan kan ATT&CK konkret anvendes i et SIEM?
 7. Periodevis vurderes lister fra 1+2.
 
 
-## Yderligere ressourcer
-ATT&CK
+
+## Yderligere ressourcer / værktøjer
+ATT&CK:
 - [Hjemmeside](https://attack.mitre.org/)
 - [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/) ([om navigatoren](https://www.mitre.org/capabilities/cybersecurity/overview/cybersecurity-blog/the-attck%E2%84%A2-navigator-a-new-open-source))
 - [MITRE Cyber Analytics Repository](https://car.mitre.org/) (Voksende bibliotek af "detection techniques")
-
-
-Test af Detection Techniques:
-- Brug [Atomic Red Team](https://atomicredteam.io/testing) til automatisering af red team testing.
+- [MITREblog: ATT&CK Sub-Techniques Preview](https://medium.com/mitre-attack/attack-sub-techniques-preview-b79ff0ba669a)
 
 Log Management:
 - [NIST] [Guide to Computer Security Log Management](https://csrc.nist.gov/publications/detail/sp/800-92/final)
@@ -78,6 +77,15 @@ Log Management:
 Andre relevante modeller:
 - [Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) fra Lockheed Martin. God, når man skal forklare et angrebs anatomi til ledelsen.
 - [Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html). God, når man skal forstå hvorfor vi bruger ATT&CK.
+
+Test af Detection Techniques:
+- Brug [Atomic Red Team](https://atomicredteam.io/testing) til automatisering af red team testing.
+
+Artikler:
+- [Getting Started with ATT&CK? New Report Suggests Prioritizing PowerShell](https://redcanary.com/blog/getting-started-with-attck-new-report-suggests-prioritizing-powershell/)
+- [Four tools to consider if you're adopting ATT&CK](https://redcanary.com/blog/four-tools-to-consider-if-youre-adopting-attck/)
+- [ATT&CK™ Is Only as Good as Its Implementation: Avoiding Five Common Pitfalls](https://redcanary.com/blog/avoiding-common-attack-pitfalls/)
+
 
 ## Nyttige forkortelser og Begreber
 
